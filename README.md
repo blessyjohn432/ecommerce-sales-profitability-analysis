@@ -1,2 +1,3 @@
-# ecommerce-sales-profitability-analysis
-Python-based analysis of global e-commerce sales, profitability, customer segments, products, regions, and business trends to generate actionable insights.
+# 🛒 E-commerce Sales & Profitability Analysis
+
+An end-to-end Python data analysis project evaluating global e-commerce performance. This project explores transaction-level data across customer segments, product categories, and geographic regions to uncover profit drivers, revenue leakage, and seasonal growth trends.
